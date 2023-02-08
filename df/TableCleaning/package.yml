@@ -1,0 +1,5 @@
+name: TableCleaning
+version: 0.1
+display_name: TableCleaning
+description: This application will clean the table
+state: draft

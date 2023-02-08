@@ -1,0 +1,11 @@
+unique_name: TableCleaning
+action_reference: TableCleaning
+display_name: TableCleaning
+state: draft
+parameters:
+- param_name: table
+  df_param_type: table
+  display_name: table
+  description: table
+  user_input_required: true
+source_type: python
